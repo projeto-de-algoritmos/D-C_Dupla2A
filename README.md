@@ -19,8 +19,8 @@ _Follow up: The overall run time complexity should be O(log (m+n))._
 
 ## Screenshots
 <p align="center">
- <img src="https://github.com/twistershark/github-explorer/blob/master/uploads/dashboard.png" alt="dashboard" /> 
- <img src="https://github.com/twistershark/github-explorer/blob/master/uploads/repository.png" alt="repository" />
+ <img src="https://github.com/projeto-de-algoritmos/D-C_Dupla2A/blob/master/assets/description.png" alt="description" /> 
+ <img src="https://github.com/projeto-de-algoritmos/D-C_Dupla2A/blob/master/assets/answer.png" alt="answer" />
 </p>
 
 ## Instalação 
